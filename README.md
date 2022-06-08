@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Giovanni Milone
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning TensorFlow
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Engineering and Machine Learning
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: giovannimilonemail@gmail.com
 
 <!---
 Archstetics/Archstetics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
