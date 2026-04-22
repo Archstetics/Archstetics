@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Giovanni Milone
 - 👀 I’m interested in Software Engineering and Machine Learning
-- 🌱 I’m currently learning PyTorch
 - 📫 How to reach me: giovannimilonemail@gmail.com
 
 <!---
